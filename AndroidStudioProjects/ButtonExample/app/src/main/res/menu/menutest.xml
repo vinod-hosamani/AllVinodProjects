@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="test"/>
+
+    <item android:title="blutooth"
+        android:id="@+id/bluetoth"/>
+
+    <item android:title="share"
+        android:id="@+id/share"/>
+
+    <item android:title="gmail"
+        android:id="@+id/gmail"/>
+
+    <item android:title="crome"
+        android:id="@+id/crome"/>
+
+    <item android:title="wifi"
+        android:id="@+id/wifi"/>
+</menu>

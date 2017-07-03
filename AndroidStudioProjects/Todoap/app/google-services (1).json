@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "166248823297",
+    "firebase_url": "https://todousingfirebase.firebaseio.com",
+    "project_id": "todousingfirebase",
+    "storage_bucket": "todousingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166248823297:android:e59232255eff6452",
+        "android_client_info": {
+          "package_name": "app.com.todoap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166248823297-kubtigjqkot4tvu8q2u2jjpd0jrma6sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEN1pquqAIFJaIILtXX47rS4HqCFXvqtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

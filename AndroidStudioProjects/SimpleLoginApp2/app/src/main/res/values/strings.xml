@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"SimpleLoginApp "</string>
+    <string name="login_text">LoginPage</string>
+    <string name="username_text">username</string>
+    <string name="password_text">password</string>
+    <string name="attempts_text">Attempts</string>
+    <string name="button_login">Login</string>
+    <string name="second_page_text">welcome to the second page</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">18EventHandling</string>
+    <string name="vinText">Vin</string>
+    <string name="new_btnVinod">New Btn</string>
+</resources>

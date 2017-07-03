@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#8527e2"
+    android:layout_height="match_parent"
+    tools:context="com.bridgelabz.fragment2.MainActivity">
+
+    <fragment
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        class="com.bridgelabz.fragment2.MenuFragment"
+        android:id="@+id/fragment"
+        android:layout_weight="0.5"/>
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.bridgelabz.fragment2.TextFragment"
+        android:id="@+id/fragment2"
+        android:layout_weight="0.5"/>
+
+
+</LinearLayout>

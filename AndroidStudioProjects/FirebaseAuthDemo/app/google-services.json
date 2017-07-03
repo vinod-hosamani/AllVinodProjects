@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "707616940174",
+    "firebase_url": "https://myfirebaseauthapp-f72a1.firebaseio.com",
+    "project_id": "myfirebaseauthapp-f72a1",
+    "storage_bucket": "myfirebaseauthapp-f72a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707616940174:android:72b33ac377be6da4",
+        "android_client_info": {
+          "package_name": "com.bridgelabz.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707616940174-i3gtnvq86p7v6rcco4c6m4af15mv8fu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFbgsQNDnnbrQ32dwUaHRmjgWNavKPcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+<item
+
+    android:id="@+id/home_id"
+    android:title="home"
+    android:icon="@drawable/ic_home_black">
+
+</item>
+
+    <item
+
+        android:id="@+id/id_message"
+        android:title="message"
+        android:icon="@drawable/ic_message_black">
+
+    </item>
+    <item
+
+        android:id="@+id/id_settings"
+        android:title="setting"
+        android:icon="@drawable/ic_setting_black">
+
+    </item>
+</group>
+
+    <item android:title="social">
+<menu>
+<item
+
+    android:title="add to group"
+    android:id="@+id/add_to_group"
+    android:icon="@drawable/ic_person_addblock"
+
+    ></item>
+    <item
+
+        android:title="Group"
+        android:id="@+id/id_gruop"
+        android:icon="@drawable/ic_group_black4"
+
+        ></item>
+    <item
+
+        android:title="share"
+        android:id="@+id/id_share"
+        android:icon="@drawable/ic_share_black"
+
+        ></item>
+
+
+</menu>
+
+
+    </item>
+
+</menu>
